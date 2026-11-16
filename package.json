@@ -1,0 +1,13 @@
+{
+  "name": "priya-souvik-wedding-invitation",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Mobile-first wedding invitation with scratch date reveal and private blessings wall",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=20"},
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
